@@ -159,3 +159,14 @@ footer {
   display: inline-block;
   margin-right: 5px;
 }
+
+.delete-btn {
+  cursor: pointer;
+  color: #d32f2f;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.delete-btn:hover {
+  color: #b71c1c;
+}
